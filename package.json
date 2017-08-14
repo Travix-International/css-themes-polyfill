@@ -2,7 +2,7 @@
   "name": "travix-css-themes-polyfill",
   "version": "0.1.1",
   "description": "Travix CSS variables for themes polyfill",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "scripts": {
     "build": "uglifyjs --compress --mangle --output lib/index.js src/index.js",
     "test": "node test/index.spec.js",
