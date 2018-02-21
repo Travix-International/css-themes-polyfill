@@ -1,3 +1,4 @@
+# DEPRECATED - Please refer to https://github.com/Travix-International/ui/tree/master/packages/css-themes-polyfill
 # CSS variables for themes polyfill
 
 **Warning:** It is not a full featured polyfill for CSS variables. It is just cover the case of flat variables (no nesting) for Travix.
